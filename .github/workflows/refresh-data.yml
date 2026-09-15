@@ -32,6 +32,8 @@ jobs:
         
       - run: python scripts/refresh_calls.py
       
+      - run: python scripts/fix_site.py
+      
       - run: |
       
           git config user.name github-actions[bot]
@@ -43,6 +45,7 @@ jobs:
           git diff --cached --quiet || git commit -m 'data: refresh EU calls'
           
           git push
+
 
 
 
