@@ -51,3 +51,12 @@
 {"type": "added", "id": "HORIZON-MSCA-2026-DN-01-01", "at": "2026-09-15T19:15:15.554062+00:00"}
 {"type": "added", "id": "DIGITAL-ECCC-2027-DEPLOY-CYBER-11-EULEG", "at": "2026-09-15T19:15:15.554062+00:00"}
 {"type": "added", "id": "HORIZON-WIDERA-2027-04-WIDENING-01", "at": "2026-09-15T19:15:15.554062+00:00"}
+{"type": "removed_or_closed", "id": "HORIZON-CL4-2026-SPACE-03-86", "at": "2026-09-16T18:48:10.544094+00:00"}
+{"type": "removed_or_closed", "id": "HORIZON-CL4-2026-SPACE-03-61", "at": "2026-09-16T18:48:10.544094+00:00"}
+{"type": "removed_or_closed", "id": "HORIZON-CL4-2026-SPACE-03-82", "at": "2026-09-16T18:48:10.544094+00:00"}
+{"type": "removed_or_closed", "id": "HORIZON-CL4-2026-SPACE-03-85", "at": "2026-09-16T18:48:10.544094+00:00"}
+{"type": "removed_or_closed", "id": "HORIZON-EIC-2026-TRANSITIONOPEN", "at": "2026-09-16T18:48:10.544094+00:00"}
+{"type": "removed_or_closed", "id": "HORIZON-CL4-2026-SPACE-03-32", "at": "2026-09-16T18:48:10.544094+00:00"}
+{"type": "removed_or_closed", "id": "HORIZON-CL4-2026-SPACE-03-11", "at": "2026-09-16T18:48:10.544094+00:00"}
+{"type": "removed_or_closed", "id": "HORIZON-CL4-2026-SPACE-03-31", "at": "2026-09-16T18:48:10.544094+00:00"}
+{"type": "removed_or_closed", "id": "HORIZON-CL4-2026-SPACE-03-81", "at": "2026-09-16T18:48:10.544094+00:00"}
