@@ -168,3 +168,6 @@
 {"type": "changed", "id": "HORIZON-CL2-2026-01-DEMOCRACY-05", "at": "2026-09-23T12:50:13.116987+00:00"}
 {"type": "changed", "id": "HORIZON-CL2-2026-01-DEMOCRACY-09", "at": "2026-09-23T12:50:13.116987+00:00"}
 {"type": "changed", "id": "HORIZON-CL2-2026-01-DEMOCRACY-04", "at": "2026-09-23T12:50:13.116987+00:00"}
+{"type": "removed_or_closed", "id": "HORIZON-CL6-2026-01-BIODIV-02", "at": "2026-09-23T18:47:11.664305+00:00"}
+{"type": "removed_or_closed", "id": "HORIZON-MISS-2026-05-SOIL-03", "at": "2026-09-23T18:47:11.664305+00:00"}
+{"type": "removed_or_closed", "id": "HORIZON-CL6-2026-01-ZEROPOLLUTION-02", "at": "2026-09-23T18:47:11.664305+00:00"}
