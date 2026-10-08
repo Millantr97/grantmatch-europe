@@ -206,3 +206,5 @@
 {"type": "changed", "id": "HORIZON-CL5-2026-10-D6-03", "at": "2026-10-02T12:53:31.754157+00:00"}
 {"type": "changed", "id": "HORIZON-MSCA-2026-DN-01-01", "at": "2026-10-07T18:54:45.910225+00:00"}
 {"type": "changed", "id": "HORIZON-WIDERA-2027-04-WIDENING-01", "at": "2026-10-07T18:54:45.910225+00:00"}
+{"type": "removed_or_closed", "id": "HORIZON-CL5-2026-10-D6-06", "at": "2026-10-08T06:56:53.306815+00:00"}
+{"type": "removed_or_closed", "id": "HORIZON-CL5-2026-10-D6-01", "at": "2026-10-08T06:56:53.306815+00:00"}
