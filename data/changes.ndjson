@@ -248,3 +248,15 @@
 {"type": "added", "id": "HORIZON-CL3-2026-01-DRS-02", "at": "2026-10-23T17:23:30.263395+00:00"}
 {"type": "added", "id": "HORIZON-CL3-2026-01-SSRI-03", "at": "2026-10-23T17:23:30.263395+00:00"}
 {"type": "added", "id": "HORIZON-CL3-2026-01-SSRI-04", "at": "2026-10-23T17:23:30.263395+00:00"}
+{"type": "added", "id": "HORIZON-HLTH-2027-01-DISEASE-08", "at": "2026-10-29T06:22:47.917121+00:00"}
+{"type": "added", "id": "HORIZON-HLTH-2027-01-DISEASE-10", "at": "2026-10-29T06:22:47.917121+00:00"}
+{"type": "added", "id": "HORIZON-HLTH-2027-01-STAYHLTH-01", "at": "2026-10-29T06:22:47.917121+00:00"}
+{"type": "added", "id": "HORIZON-HLTH-2027-01-CARE-02", "at": "2026-10-29T06:22:47.917121+00:00"}
+{"type": "added", "id": "HORIZON-HLTH-2027-01-DISEASE-05", "at": "2026-10-29T06:22:47.917121+00:00"}
+{"type": "added", "id": "HORIZON-HLTH-2027-01-ENVHLTH-MISSCLIMA-03", "at": "2026-10-29T06:22:47.917121+00:00"}
+{"type": "added", "id": "HORIZON-HLTH-2027-01-IND-01", "at": "2026-10-29T06:22:47.917121+00:00"}
+{"type": "added", "id": "HORIZON-HLTH-2027-01-DISEASE-07", "at": "2026-10-29T06:22:47.917121+00:00"}
+{"type": "added", "id": "HORIZON-HLTH-2027-02-TOOL-01-two-stage", "at": "2026-10-29T06:22:47.917121+00:00"}
+{"type": "added", "id": "HORIZON-HLTH-2027-02-IND-02-two-stage", "at": "2026-10-29T06:22:47.917121+00:00"}
+{"type": "added", "id": "HORIZON-HLTH-2027-02-DISEASE-01-two-stage", "at": "2026-10-29T06:22:47.917121+00:00"}
+{"type": "added", "id": "HORIZON-HLTH-2027-01-DISEASE-06", "at": "2026-10-29T06:22:47.917121+00:00"}
