@@ -275,3 +275,14 @@
 {"type": "removed_or_closed", "id": "HORIZON-CL3-2026-01-SSRI-02", "at": "2026-11-05T20:13:46.965956+00:00"}
 {"type": "removed_or_closed", "id": "HORIZON-CL3-2026-01-FCT-02", "at": "2026-11-05T20:13:46.965956+00:00"}
 {"type": "removed_or_closed", "id": "HORIZON-CL3-2026-01-SSRI-04", "at": "2026-11-05T20:13:46.965956+00:00"}
+{"type": "added", "id": "HORIZON-CL4-2027-05-DIGITAL-EMERGING-03", "at": "2026-11-17T08:24:24.298896+00:00"}
+{"type": "added", "id": "HORIZON-CL4-2027-04-HUMAN-02", "at": "2026-11-17T08:24:24.298896+00:00"}
+{"type": "added", "id": "HORIZON-CL4-2027-04-DIGITAL-EMERGING-06", "at": "2026-11-17T08:24:24.298896+00:00"}
+{"type": "added", "id": "HORIZON-CL4-2027-04-DATA-09", "at": "2026-11-17T08:24:24.298896+00:00"}
+{"type": "added", "id": "HORIZON-CL4-2027-04-DIGITAL-EMERGING-04", "at": "2026-11-17T08:24:24.298896+00:00"}
+{"type": "added", "id": "HORIZON-CL4-2027-04-DIGITAL-EMERGING-05", "at": "2026-11-17T08:24:24.298896+00:00"}
+{"type": "added", "id": "HORIZON-CL4-2027-04-DIGITAL-EMERGING-10", "at": "2026-11-17T08:24:24.298896+00:00"}
+{"type": "added", "id": "HORIZON-CL4-2027-04-DIGITAL-EMERGING-11", "at": "2026-11-17T08:24:24.298896+00:00"}
+{"type": "added", "id": "HORIZON-CL4-2027-04-HUMAN-07", "at": "2026-11-17T08:24:24.298896+00:00"}
+{"type": "added", "id": "HORIZON-CL4-2027-04-DATA-03", "at": "2026-11-17T08:24:24.298896+00:00"}
+{"type": "added", "id": "HORIZON-CL4-2027-04-DATA-08", "at": "2026-11-17T08:24:24.298896+00:00"}
