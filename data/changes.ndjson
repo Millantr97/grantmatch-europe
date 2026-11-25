@@ -288,3 +288,14 @@
 {"type": "added", "id": "HORIZON-CL4-2027-04-DATA-08", "at": "2026-11-17T08:24:24.298896+00:00"}
 {"type": "changed", "id": "HORIZON-CL4-2027-05-DIGITAL-EMERGING-03", "at": "2026-11-19T20:55:32.255357+00:00"}
 {"type": "removed_or_closed", "id": "HORIZON-MSCA-2026-DN-01-01", "at": "2026-11-24T22:43:05.275257+00:00"}
+{"type": "added", "id": "HORIZON-EIC-2027-PATHFINDEROPEN-two-stage", "at": "2026-11-25T21:56:54.200760+00:00"}
+{"type": "changed", "id": "HORIZON-CL4-2027-04-DIGITAL-EMERGING-05", "at": "2026-11-25T21:56:54.200760+00:00"}
+{"type": "changed", "id": "HORIZON-CL4-2027-04-DATA-08", "at": "2026-11-25T21:56:54.200760+00:00"}
+{"type": "changed", "id": "HORIZON-CL4-2027-04-HUMAN-07", "at": "2026-11-25T21:56:54.200760+00:00"}
+{"type": "changed", "id": "HORIZON-CL4-2027-04-DATA-03", "at": "2026-11-25T21:56:54.200760+00:00"}
+{"type": "changed", "id": "HORIZON-CL4-2027-04-DIGITAL-EMERGING-06", "at": "2026-11-25T21:56:54.200760+00:00"}
+{"type": "changed", "id": "HORIZON-CL4-2027-04-DATA-09", "at": "2026-11-25T21:56:54.200760+00:00"}
+{"type": "changed", "id": "HORIZON-CL4-2027-04-HUMAN-02", "at": "2026-11-25T21:56:54.200760+00:00"}
+{"type": "changed", "id": "HORIZON-CL4-2027-04-DIGITAL-EMERGING-11", "at": "2026-11-25T21:56:54.200760+00:00"}
+{"type": "changed", "id": "HORIZON-CL4-2027-04-DIGITAL-EMERGING-10", "at": "2026-11-25T21:56:54.200760+00:00"}
+{"type": "changed", "id": "HORIZON-CL4-2027-04-DIGITAL-EMERGING-04", "at": "2026-11-25T21:56:54.200760+00:00"}
