@@ -1,8 +1,8 @@
 {
   "source": "European Commission SEDIA Search API",
   "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
-  "fetched_at": "2026-11-25T21:56:54.200760+00:00",
-  "open_calls": 41,
+  "fetched_at": "2026-11-26T08:50:02.242725+00:00",
+  "open_calls": 52,
   "ok": true,
-  "sha256": "fd0f6e7364d94e35cc7473988f306f7aed6a4587e1d44e8b497b245f1099fcea"
+  "sha256": "9d411d7507ff714404afbc0f7dad7962329977f5dac5592ea3ea4e6dd773e518"
 }
